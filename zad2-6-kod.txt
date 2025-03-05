@@ -1,0 +1,296 @@
+<!DOCTYPE html> 
+ <html lang="pl-PL"> 
+  <html> 
+   <head> 
+    <meta charset="utf-8"> 
+     <title>  adam wojciechowski     </title> 
+     </head> 
+    <body> 
+adam wojciechowski
+ <p align="right"> <font color="white" size="1" face="Arial"> adam wojciechowski</font> </p> <br>
+ <p align="right"> <font color="blue" size="2" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"> <font color="aqua" size="3" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"> <font color="black" size="4" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"> <font color="white" size="5" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"> <font color="blue" size="6" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"> <font color="aqua" size="7" face="Arial"> adam wojciechowski </font> </p> <br>
+
+<h1>  adam wojciechowski </h1><br> 
+<h2>  adam wojciechowski </h2><br>
+<h3>  adam wojciechowski </h3><br> 
+<h4>  adam wojciechowski </h4><br> 
+<h5>  adam wojciechowski </h5><br> 
+<h6>  adam wojciechowski </h6><br> 
+
+ <p align="right"> <font color="white" size="1" face="Verdana">  :) usmiechnieta </font> </p> <br>
+ <p align="right"> <font color="blue" size="2" face="Arial">  :)) radosc</font> </p> <br>
+ <p align="right"> <font color="aqua" size="3" face="Times New Roman">  XD usmiech </font> </p> <br>
+ <p align="right"> <font color="black" size="4" face="Courier New">  ;) zadowolenie</font> </p> <br>
+ <p align="right"> <font color="white" size="5" face="Arial">:C smutek</font> </p> <br>
+ <p align="right"> <font color="blue" size="6" face="Verdana">  :| brak emoncji</font> </p> <br>
+ <p align="right"> <font color="aqua" size="7" face="Courier New"> >:) zadowolenie </font> </p> <br>
+    </body> 
+  </html>
+
+
+
+
+
+
+
+
+
+
+
+
+<center> <p>80-180 jaworzniakow 101/39</p> </center><br>
+
+<center> <font color="blue" size="7" face=" Verdana "> ryan gosling </font> <center> <br> 
+
+
+
+<center> <font color="black" size="5" face="'Times New Roman"> koniec swiata </font> <center> <br> 
+
+
+<center> <font color="orange" size="1" face="'Courier New"> 20 luty 2007 </font> <center> <br> 
+
+
+
+
+ <p align="left"> <font color="aqua" size="7" face="Courier New"> x*x=x2  </font> </p> <br>
+ <p align="left"> <font color="yellow" size="7" face="Courier New"> H2SO4  </font> </p> <br>
+
+<FIELDSET> 
+<LEGEND> zarty </LEGEND> 
+<h1 ALIGN=left >Dwóch kolegów </h1> 
+– Wiesz, moja żona w ogóle mnie nie rozumie. A Twoja ? <br> 
+– Nie wiem, nie pytałem się jej o Ciebie. <br> 
+
+<HR SIZE=4 WIDTH=75% ALIGN=LEFT COLOR=red>
+
+<h1 ALIGN=left >Dowcipy o babie</h1> 
+Blondynka przyszła do apteki.<br> 
+- Czy są testy ciążowe?<br> 
+- Są<br> 
+- A trudne są pytania?<br> 
+
+<HR SIZE=7 WIDTH=100% ALIGN=LEFT COLOR=blue>
+
+<h1 ALIGN=left >chinczyk </h1> 
+
+Jak nazywa się chiński weterynarz?<br> 
+Zabi-jata mi-pupila.<br> 
+
+<FIELDSET> 
+
+
+
+
+&#165; 
+&#169;
+&#163;
+&#179;
+&#185; 
+&#191;
+&#202;
+&#209;
+&#211;
+
+
+
+
+<!- Wojciechowski &nbsp; Adam &nbsp; zse &nbsp; 2g->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<UL TYPE=circle>  
+<LI> drukarka 
+<LI> igłowa 
+<LI> laserowa
+<LI> atramentowe
+</UL>
+
+<UL TYPE=disc>  
+<LI> Urządzenia zewnętrzne komputera   
+<LI> Monitor
+<LI> z lampą kineskopową
+<LI> LCD 
+</UL>
+
+
+<UL TYPE=square>  
+<LI>    Urządzenia wewnętrzne komputera
+<LI> Płyta główna
+<LI> Mikroprocesor
+<LI> Karty rozszerzeń 
+</UL>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<FIELDSET> 
+<LEGEND> zarty </LEGEND> 
+<h1 ALIGN=left >Dwóch kolegów </h1> 
+– Wiesz, moja żona w ogóle mnie nie rozumie. A Twoja ? <br> 
+– Nie wiem, nie pytałem się jej o Ciebie. <br> 
+<IMG SRC="C:\Users\2G_2\Desktop/300.webp" ALIGN=right BORDER=27 WIDTH=117
+HEIGHT=128 ALT=„grafika1-wojciechowski”> 
+<IMG SRC="C:\Users\2G_2\Desktop/gvbixd.webp" ALIGN=left BORDER=27 WIDTH=117
+HEIGHT=128 ALT=„grafika1-wojciechowski”>  
+<HR SIZE=4 WIDTH=75% ALIGN=LEFT COLOR=red>
+
+<h1 ALIGN=left >Dowcipy o babie</h1> 
+Blondynka przyszła do apteki.<br> 
+- Czy są testy ciążowe?<br> 
+- Są<br> 
+- A trudne są pytania?<br> 
+<IMG SRC="C:\Users\2G_2\Desktop/giphy.webp" ALIGN=right BORDER=27 WIDTH=117
+HEIGHT=128 ALT=„grafika1-wojciechowski”> 
+<IMG SRC="C:\Users\2G_2\Desktop/200.webp" ALIGN=left BORDER=27 WIDTH=117
+HEIGHT=128 ALT=„grafika1-wojciechowski”> 
+<HR SIZE=7 WIDTH=100% ALIGN=LEFT COLOR=blue>
+
+<h1 ALIGN=left >chinczyk </h1> 
+
+Jak nazywa się chiński weterynarz?<br> 
+Zabi-jata mi-pupila.<br> 
+<IMG SRC="C:\Users\2G_2\Desktop/giphy.webp" ALIGN=right BORDER=27 WIDTH=117
+HEIGHT=128 ALT=„grafika1-wojciechowski”> 
+<FIELDSET> 
+
+
+
+
+
+
+
+
+
+
+
+<title> uczen wojciechowski</title>
+<A HREF="tabela_wojciechowski.html"> Tutaj jest link do tabeli <br>  
+<A HREF="poczta_wojciechowski.html"> Tutaj jest link do poczty <br>  
+<A HREF="formularz_wojciechowski.html"> Tutaj jest link do formularzu <br>   
+<A HREF="plik_wojciechowski.html"> Tutaj jest link do pliku <br> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

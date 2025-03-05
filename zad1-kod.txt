@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+ <html lang="pl-PL"> 
+  <html> 
+   <head> 
+    <meta charset="utf-8"> 
+     <title>  adam wojciechowski     </title> 
+     </head> 
+    <body> 
+adam wojciechowski
+ <p align="right"><font color="white" size="1" face="Arial"> adam wojciechowski</font> </p> <br>
+ <p align="right"><font color="blue" size="2" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"><font color="aqua" size="3" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"><font color="black" size="4" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"><font color="white" size="5" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"><font color="blue" size="6" face="Arial"> adam wojciechowski </font> </p> <br>
+ <p align="right"><font color="aqua" size="7" face="Arial"> adam wojciechowski </font> </p> <br>
+
+<h1>  adam wojciechowski </h1><br> 
+<h2>  adam wojciechowski </h2><br>
+<h3>  adam wojciechowski </h3><br> 
+<h4>  adam wojciechowski </h4><br> 
+<h5>  adam wojciechowski </h5><br> 
+<h6>  adam wojciechowski </h6><br> 
+
+ <p align="right"><font color="white" size="1" face="Verdana">  :) usmiechnieta </font></p><br>
+ <p align="right"><font color="blue" size="2" face="Arial">  :)) radosc</font></p><br>
+ <p align="right"><font color="aqua" size="3" face="Times New Roman">  XD usmiech </font></p><br>
+ <p align="right"><font color="black" size="4" face="Courier New">  ;) zadowolenie</font></p><br>
+ <p align="right"><font color="white" size="5" face="Arial">:C smutek</font></p><br>
+ <p align="right"><font color="blue" size="6" face="Verdana">  :| brak emoncji</font></p><br>
+ <p align="right"><font color="aqua" size="7" face="Courier New"> >:) zadowolenie </font></p><br>
+    </body> 
+  </html>
